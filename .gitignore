@@ -1,0 +1,8 @@
+# Ignore the following types of files
+*.pyc
+*.log
+# Ignore the following folders
+Data/
+Manuals/
+venv/
+Interlock-venv/
